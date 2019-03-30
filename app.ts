@@ -16,18 +16,18 @@
 //     }
 // }
 
-// let Stringss = new Collection();
-// Stringss.add<string>('hello'); 
-// Stringss.add('world');
+// let Strin = new Collection();
+// Strin.add<string>('hello'); 
+// Strin.add('world');
 
-interface NameArgs {
-    length: number;
-}
+// interface NameArgs {
+//     length: number;
+// }
 
-function printName <T extends NameArgs>(arg: T){
-    console.log(arg.length);
-    return arg;
-}
-printName({length: 3, value: 3});
+// function printName <T extends NameArgs>(arg: T){
+//     console.log(arg.length);
+//     return arg;
+// }
+// printName({length: 3, value: 3});
 
-// console.log(Stringss.get<string>(0).length);
+// // console.log(Stringss.get<string>(0).length);
