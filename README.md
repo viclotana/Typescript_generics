@@ -1,7 +1,7 @@
 # Typescript Generics
 Demo Code to the Typescript Generics Tutorial
 ## The Walk-through is broken down by illustrations starting at
-### illustration.ts
-### illustration2.ts
-### illustration3.ts
-### app.ts
+### 1. illustration.ts
+### 2. illustration2.ts
+### 3. illustration3.ts
+### 4. app.ts
